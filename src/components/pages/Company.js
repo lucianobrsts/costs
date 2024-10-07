@@ -1,7 +1,7 @@
 
 function Company() {
     return (
-        <p>Empresa</p>
+        <h1>Empresa</h1>
     )
 }
 
