@@ -24,6 +24,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "802d",
+      "name": "Meu projeto 3",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
