@@ -45,12 +45,16 @@
     background-color: #a0e7e5;
 }
 
-.category_text .desing {
+.category_text .design {
     background-color: #b4f8c8;
 }
 
 .category_text .planejamento {
     background-color: #fbe7c6;
+}
+
+.category_text .administrativo {
+    background-color: #fbe7fb;
 }
 
 .project_card_actions {
