@@ -13,6 +13,9 @@
     padding: 0.4em;
     margin-bottom: 1.3em;
     font-size: 1.3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .project_card p {
@@ -61,7 +64,8 @@
 .project_card_actions {
     margin-top: 1.2em;
     display: flex;
-    align-items: center;
+    justify-content: center;
+
 }
 
 .project_card_actions a,
