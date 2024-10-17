@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "38d3",
-      "name": "Meu Primeiro Projeto",
+      "name": "Meu Primeiro Projetos",
       "budget": "5000",
       "category": {
         "id": "2",
@@ -13,11 +13,22 @@
     },
     {
       "id": "cdf7",
-      "name": "Meu projeto 2",
-      "budget": "15000",
+      "name": "Projeto Atualizado",
+      "budget": "1300",
       "category": {
         "id": "4",
         "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "8d51",
+      "name": "Reforma casa",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
