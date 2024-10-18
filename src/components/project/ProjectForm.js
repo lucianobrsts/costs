@@ -1,5 +1,5 @@
 import {useEffect, useState} from 'react'
-import Input from '../form/input'
+import Input from '../form/Input'
 import Select from '../form/Select'
 import SubmitButton from '../form/SubmitButton'
 
