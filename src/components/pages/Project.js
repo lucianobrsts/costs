@@ -101,8 +101,7 @@ function Project() {
         })
         .then((resp) => resp.json())
         .then((data) => {
-            //exibir os serviços
-            console.log(data)
+            setShowServiceForm(false)
         })
         .catch((err) => console.log(err))
     }
