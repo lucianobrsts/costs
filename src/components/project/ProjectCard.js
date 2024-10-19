@@ -18,7 +18,7 @@ function ProjectCard({ id, name, budget, category, handleRemove }) {
             </p>
             <p className={styles.category_text}>
                 {/*erro ao chamar o metodo toLowerCase()*/}
-                <span className={`${styles[category.toLowerCase()]}`}></span> {category}
+                <span className={`${styles[category]}`}></span> {category}
             </p>
             <div className={styles.project_card_actions}>
                 <Link to={`/project/${id}`}>

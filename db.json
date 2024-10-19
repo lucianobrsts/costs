@@ -8,8 +8,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 9,
+      "services": [
+        {
+          "name": "dfasdfasdf",
+          "cost": "9",
+          "description": "sdasdfasdf",
+          "id": "f49b751b-c65e-48b3-9a13-633ac6d2ed13"
+        }
+      ]
     },
     {
       "id": "cdf7",
@@ -29,6 +36,22 @@
       "category": {
         "id": "3",
         "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3c48",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1fb4",
+      "name": "Teste 2",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
