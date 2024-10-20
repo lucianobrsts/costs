@@ -26,21 +26,8 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 600,
-      "services": [
-        {
-          "name": "Contratar Dev PHP",
-          "cost": "500",
-          "description": "Vai criar a função de envio de e-mails",
-          "id": "41e635bc-2f71-4134-ac43-57bd832e51e2"
-        },
-        {
-          "name": "Novo serviço",
-          "cost": "100",
-          "description": "Teste",
-          "id": "b1db520d-861b-4b8f-8556-2d526b443bd4"
-        }
-      ]
+      "cost": 0,
+      "services": []
     },
     {
       "id": "8d51",
@@ -50,8 +37,15 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": []
+      "cost": 2000,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "2000",
+          "description": "testes",
+          "id": "ca70a6b5-9b4c-4b59-b18d-294444704e0c"
+        }
+      ]
     }
   ],
   "contact": [
