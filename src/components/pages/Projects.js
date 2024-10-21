@@ -68,12 +68,12 @@ function Projects() {
             <Container customClass="start">
                 {projects.length > 0 &&
                     projects.map((project) => (
-                        <ProjectCard 
+                        <ProjectCard
                             id={project.id}
                             name={project.name}
                             budget={project.budget}
-                            category={project.category.name}
-                            key={project.id} 
+                            //category={project.category.name}
+                            key={project.id}
                             handleRemove={removeProject}
                         />
                     ))}
